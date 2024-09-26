@@ -1,0 +1,35 @@
+<h3 id = "top">Information</h3>
+<a href = "#about_me">~ about me~</a><br />
+<a href = "#hobbies/extracurriculars">~ my content creation journey ~</a><br />
+<a href = "#other">~ other ~</a><br />
+  
+<hr class = "horizontal-line">
+        <h4 id="about_me">~ about me ~</h4>
+        <ul>
+          <li>highschooler</li>
+        </ul>
+
+<hr class = "horizontal-line">
+<h4 id="content-creation">~ my content creation journey~</h4>
+<ul>
+<p>started in 2024</p>
+      <li>youtube channel: 500+ views</li>
+      <li>tik tok: </li>
+      <li>instagram: </li>
+</ul>
+
+<hr class = "horizontal-line">
+<h4 id="other">~ other ~</h4>
+        <li>For more details or information, please contact: </li>
+          <ul>
+          <li><a href="mailto:xxluvharuxx@gmail.com">xxluvharuxx@gmail.com</a></li>
+          </ul>
+      </ul>
+<p><a href = "#top">Top</a></p>
+  
+</body>
+</html>
+
+<!-- my copyright (XxluvharuxX) -->
+<p>&copy: XxluvharuxX</p>
+</html>
